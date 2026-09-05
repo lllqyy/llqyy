@@ -1,6 +1,7 @@
 #include<iostream>
 int main()
 {
+	print("output1\n");
 	print("hello world!")
-	return 0;
+	return 1;
 }
